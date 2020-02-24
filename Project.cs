@@ -1,10 +1,8 @@
 using System;
 using System.Collections.Generic;
 
-class Project
-{
-  static void Main()
-  {
+class Clock {
+  static void Main () {
     // project code goes here
   }
 }
